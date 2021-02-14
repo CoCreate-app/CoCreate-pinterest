@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "60298ef8e979fb17407e25bf",
             key: "html",
             data:{
                 name: "Pinterest Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "60298ef8e979fb17407e25be",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "60298ef8e979fb17407e25bf",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/pinterest",
