@@ -16,7 +16,7 @@ const CoCreatePinterest = {
 }
 
 
-CoCreate.api.init({
+api.init({
 	name: CoCreatePinterest.id, 
 	module:	CoCreatePinterest,
 });
