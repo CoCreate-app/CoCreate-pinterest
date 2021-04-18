@@ -9,7 +9,7 @@ A simple pinterest component in vanilla javascript. Easily configured using HTML
 
 ![CoCreate-pinterest](https://cdn.cocreate.app/docs/CoCreate-pinterest.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/pinterest)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/pinterest)
 
