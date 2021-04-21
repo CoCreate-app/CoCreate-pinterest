@@ -1,22 +1,14 @@
-
-const CoCreatePinterest = {
-	id: 'pinterest',
-	actions: [
-		'getUserShow',
-		'getBoardList'
-	],
-	render_getBoardList: function(data) {
-		console.log(data);
-	},
-
-	render_getUserShow: function(data) {
-		console.log(data);
-	},
-	
-}
-
-
-api.init({
-	name: CoCreatePinterest.id, 
-	module:	CoCreatePinterest,
-});
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        define(["./client"], function(CoCreatePinterest) {
+        	return factory(CoCreatePinterest)
+        });
+    } else if (typeof module === 'object' && module.exports) {
+      const CoCreatePinterest = require("./server.js")
+      module.exports = factory(CoCreatePinterest);
+    } else {
+        root.returnExports = factory(root["./client.js"]);
+  }
+}(typeof self !== 'undefined' ? self : this, function (CoCreatePinterest) {
+  return CoCreatePinterest;
+}));
