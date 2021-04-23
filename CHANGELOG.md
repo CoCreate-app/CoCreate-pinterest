@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.3...v1.0.4) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([b3d4310](https://github.com/CoCreate-app/CoCreate-pinterest/commit/b3d4310f8f9a530252aa7d73169c9a9ad8e087c1))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.2...v1.0.3) (2021-04-23)
 
 
