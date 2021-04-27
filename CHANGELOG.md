@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.5...v1.0.6) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([78b1cc8](https://github.com/CoCreate-app/CoCreate-pinterest/commit/78b1cc82aeffc9d84b646ce0703ed028a752d075))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.4...v1.0.5) (2021-04-27)
 
 
