@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "60298ef8e979fb17407e25bf",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "pinterest Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
