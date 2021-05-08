@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.6...v1.0.7) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([352f595](https://github.com/CoCreate-app/CoCreate-pinterest/commit/352f595b7f3be3597822c0b892c68cd3b5a0bb6d))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.5...v1.0.6) (2021-04-27)
 
 
