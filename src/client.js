@@ -1,4 +1,4 @@
-
+import api from '@cocreate/api'
 const CoCreatePinterest = {
 	id: 'pinterest',
 	actions: [
