@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.8...v1.0.9) (2021-06-16)
+
+
+### Bug Fixes
+
+* added header for seo ([3cedaf4](https://github.com/CoCreate-app/CoCreate-pinterest/commit/3cedaf49f2ca9e9df84da7d40607f45072a75846))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.7...v1.0.8) (2021-05-22)
 
 
