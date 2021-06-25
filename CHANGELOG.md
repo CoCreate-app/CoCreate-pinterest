@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.11...v1.0.12) (2021-06-25)
+
+
+### Bug Fixes
+
+* latest version numbers applied to all cocreate packages ([b80b464](https://github.com/CoCreate-app/CoCreate-pinterest/commit/b80b464de1ef46236876510edbb5cd4a393928a9))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.10...v1.0.11) (2021-06-24)
 
 
