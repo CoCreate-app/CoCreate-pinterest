@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.12...v1.0.13) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([f447222](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f4472225c0aa4e8beca42b6b7c5dbf1b94a7ed16))
+
 ## [1.0.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.11...v1.0.12) (2021-06-25)
 
 
