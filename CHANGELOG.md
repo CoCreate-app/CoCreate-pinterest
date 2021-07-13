@@ -1,3 +1,11 @@
+## [1.0.16](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.15...v1.0.16) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([7455501](https://github.com/CoCreate-app/CoCreate-pinterest/commit/74555011c90e2e8f23ebaae847839cebc1d059c2))
+* remove yarn.lock ([d80ae3c](https://github.com/CoCreate-app/CoCreate-pinterest/commit/d80ae3cff552d0cdbadfdbd06218282f9e5c9b70))
+
 ## [1.0.15](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.14...v1.0.15) (2021-07-10)
 
 
