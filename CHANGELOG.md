@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.18...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([68baccf](https://github.com/CoCreate-app/CoCreate-pinterest/commit/68baccf55ac0b75e0611bfb1baa8ead2cfde2e06))
+
 ## [1.0.18](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.0.17...v1.0.18) (2021-07-17)
 
 
