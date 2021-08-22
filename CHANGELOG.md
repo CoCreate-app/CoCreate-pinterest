@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.5...v1.1.6) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([429f71a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/429f71a88c281cd0ac47ac077b1a555f1d83bcf3))
+
 ## [1.1.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.4...v1.1.5) (2021-08-22)
 
 
