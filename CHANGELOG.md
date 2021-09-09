@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.12...v1.1.13) (2021-09-09)
+
+
+### Bug Fixes
+
+* update dependencies ([5ea4c21](https://github.com/CoCreate-app/CoCreate-pinterest/commit/5ea4c21a4d69f8ed741656b331fc8a32d422a55e))
+
 ## [1.1.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.11...v1.1.12) (2021-09-09)
 
 
