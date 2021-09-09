@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.11...v1.1.12) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([c785f62](https://github.com/CoCreate-app/CoCreate-pinterest/commit/c785f62864e8ccfc2a90b2ebcdfc60af46788562))
+
 ## [1.1.11](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.10...v1.1.11) (2021-09-08)
 
 
