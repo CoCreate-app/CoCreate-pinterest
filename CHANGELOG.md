@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.15...v1.1.16) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([f126428](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f126428c699b35c3e539284332c9b879202d32a3))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.14...v1.1.15) (2021-09-09)
 
 
