@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.17...v1.1.18) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([c2697c9](https://github.com/CoCreate-app/CoCreate-pinterest/commit/c2697c95731dcee896043fb6918919a76ff806a1))
+
 ## [1.1.17](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.16...v1.1.17) (2021-09-13)
 
 
