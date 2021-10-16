@@ -1,3 +1,10 @@
+## [1.1.32](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.31...v1.1.32) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([2db2694](https://github.com/CoCreate-app/CoCreate-pinterest/commit/2db269496d6e1d3f1039c9ca1e6b046696c3397b))
+
 ## [1.1.31](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.30...v1.1.31) (2021-10-15)
 
 
