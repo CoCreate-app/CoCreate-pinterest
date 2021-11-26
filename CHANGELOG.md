@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([22b36ba](https://github.com/CoCreate-app/CoCreate-pinterest/commit/22b36baa63ccdccc6f09673d6609d85f66f1c364))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
