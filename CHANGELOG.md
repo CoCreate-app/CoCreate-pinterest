@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([e3ebf99](https://github.com/CoCreate-app/CoCreate-pinterest/commit/e3ebf99544f745a288d8308cbf294f68aeead910))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.51...v1.1.52) (2021-12-15)
 
 
