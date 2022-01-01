@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.53...v1.1.54) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([0622ee5](https://github.com/CoCreate-app/CoCreate-pinterest/commit/0622ee57ef4ec460b4bab3e6e3d44a789484ea6d))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.52...v1.1.53) (2022-01-01)
 
 
