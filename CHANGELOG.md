@@ -1,3 +1,10 @@
+## [1.1.56](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.55...v1.1.56) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([102ffae](https://github.com/CoCreate-app/CoCreate-pinterest/commit/102ffae6342196174e2c6ffcb4b54b3fa197533e))
+
 ## [1.1.55](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.54...v1.1.55) (2022-02-01)
 
 
