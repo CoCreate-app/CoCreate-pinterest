@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.58...v1.2.0) (2022-02-16)
+
+
+### Features
+
+* define request and response functions, if functions are not deifne defualt functions exist that will request and render results. Reduced and improved code quality ([14e7b8d](https://github.com/CoCreate-app/CoCreate-pinterest/commit/14e7b8d5a9c0ef42624765064a5e3f353dd91344))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.1.57...v1.1.58) (2022-02-10)
 
 
