@@ -3,7 +3,7 @@ var api = require('@cocreate/api');
 
 class CoCreatePinterest {
 	constructor(wsManager) {
-		this.module_id = 'pinterest';
+		this.moduleName = 'pinterest';
 		this.wsManager = wsManager;
 		this.init();
 		
@@ -11,7 +11,7 @@ class CoCreatePinterest {
 	
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.module_id, (socket, data) => this.pinterestOperations(socket, data));
+			this.wsManager.on(this.moduleName, (socket, data) => this.pinterestOperations(socket, data));
 		}
 	}
 	async pinterestOperations(socket, data) {
@@ -20,10 +20,10 @@ class CoCreatePinterest {
         
         switch (type) {
             case 'getBoardList':
-                api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.module_id)
+                api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.moduleName)
                 break;
 			case 'getUserShow':
-				api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.module_id)
+				api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.moduleName)
 				break;
         }
         
