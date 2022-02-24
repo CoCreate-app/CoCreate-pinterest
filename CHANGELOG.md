@@ -1,3 +1,11 @@
+## [1.2.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.1...v1.2.2) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([e4447d7](https://github.com/CoCreate-app/CoCreate-pinterest/commit/e4447d779f64584f5b775358c4a6f547c5eaff4b))
+* get environemt and keys using dot notation ([28a4733](https://github.com/CoCreate-app/CoCreate-pinterest/commit/28a4733dd248c85fc5425ee16abf8151fa922d44))
+
 ## [1.2.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.0...v1.2.1) (2022-02-16)
 
 
