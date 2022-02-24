@@ -14,20 +14,51 @@ class CoCreatePinterest {
 			this.wsManager.on(this.moduleName, (socket, data) => this.pinterestOperations(socket, data));
 		}
 	}
+
 	async pinterestOperations(socket, data) {
-	    let that = this;
-        let type = data['type'];
-        
-        switch (type) {
-            case 'getBoardList':
-                api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.moduleName)
-                break;
-			case 'getUserShow':
-				api.send_response(that.wsManager, socket, {"type":type,"response":data.data}, this.moduleName)
-				break;
+		let params = data['data'];
+		let environment;
+		let action = data['action'];
+        let pinterest = false;
+
+		try {
+			let org = await api.getOrg(data, this.moduleName);
+			if (params.environment){
+				environment = params['environment'];
+				delete params['environment'];  
+			} else {
+			  	environment = org.apis[this.moduleName].environment;
+			}
+			
+		}catch(e){
+            console.log(this.moduleName+" : Error Connect to api",e)
+            return false;
         }
-        
-	}// end sendStripe
+
+        try {
+            let response
+			switch (action) {
+				case 'getProfile':
+					response = await pinterest.getProfile();
+					break;
+				case 'updateProfile':
+					response = await pinterest.updateProfile();
+					break;
+			}
+            this.wsManager.send(socket, this.moduleName, { action, response })
+    
+        } catch (error) {
+          this.handleError(socket, action, error)
+        }
+    }
+
+    handleError(socket, action, error) {
+        const response = {
+            'object': 'error',
+            'data': error || error.response || error.response.data || error.response.body || error.message || error,
+        };
+        this.wsManager.send(socket, this.moduleName, { action, response })
+    }
 	
 }//end Class 
 module.exports = CoCreatePinterest;
