@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.2...v1.2.3) (2022-02-27)
+
+
+### Bug Fixes
+
+* update param  module to component ([f5d26b5](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f5d26b5ccc2cead6c7dc0739ca9fbd34ae3411c5))
+
 ## [1.2.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.1...v1.2.2) (2022-02-24)
 
 
