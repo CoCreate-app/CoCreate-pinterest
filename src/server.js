@@ -3,7 +3,7 @@ var api = require('@cocreate/api');
 
 class CoCreatePinterest {
 	constructor(wsManager) {
-		this.moduleName = 'pinterest';
+		this.name = 'pinterest';
 		this.wsManager = wsManager;
 		this.init();
 		
@@ -11,7 +11,7 @@ class CoCreatePinterest {
 	
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.moduleName, (socket, data) => this.pinterestOperations(socket, data));
+			this.wsManager.on(this.name, (socket, data) => this.pinterestOperations(socket, data));
 		}
 	}
 
@@ -22,16 +22,16 @@ class CoCreatePinterest {
         let pinterest = false;
 
 		try {
-			let org = await api.getOrg(data, this.moduleName);
+			let org = await api.getOrg(data, this.name);
 			if (params.environment){
 				environment = params['environment'];
 				delete params['environment'];  
 			} else {
-			  	environment = org.apis[this.moduleName].environment;
+			  	environment = org.apis[this.name].environment;
 			}
 			
 		}catch(e){
-            console.log(this.moduleName+" : Error Connect to api",e)
+            console.log(this.name+" : Error Connect to api",e)
             return false;
         }
 
@@ -45,7 +45,7 @@ class CoCreatePinterest {
 					response = await pinterest.updateProfile();
 					break;
 			}
-            this.wsManager.send(socket, this.moduleName, { action, response })
+            this.wsManager.send(socket, this.name, { action, response })
     
         } catch (error) {
           this.handleError(socket, action, error)
@@ -57,7 +57,7 @@ class CoCreatePinterest {
             'object': 'error',
             'data': error || error.response || error.response.data || error.response.body || error.message || error,
         };
-        this.wsManager.send(socket, this.moduleName, { action, response })
+        this.wsManager.send(socket, this.name, { action, response })
     }
 	
 }//end Class 

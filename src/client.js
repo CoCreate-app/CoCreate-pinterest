@@ -10,5 +10,5 @@ const CoCreatePinterest = {
 
 api.init({
 	name: CoCreatePinterest.name, 
-	module:	CoCreatePinterest,
+	component:	CoCreatePinterest,
 });
