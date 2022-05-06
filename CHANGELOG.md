@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.3...v1.2.4) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([299eed4](https://github.com/CoCreate-app/CoCreate-pinterest/commit/299eed4c0de676f940c7e04c0717e9f5194ee368))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.2...v1.2.3) (2022-02-27)
 
 
