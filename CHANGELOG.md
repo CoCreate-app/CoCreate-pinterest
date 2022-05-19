@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.4...v1.2.5) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([bbf5698](https://github.com/CoCreate-app/CoCreate-pinterest/commit/bbf5698487df36032f99e1238b89a7483fe4b54c))
+
 ## [1.2.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.3...v1.2.4) (2022-05-06)
 
 
