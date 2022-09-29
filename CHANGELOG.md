@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.9...v1.2.10) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([b37fc20](https://github.com/CoCreate-app/CoCreate-pinterest/commit/b37fc207907e3a1338c5c0afbc0a0bc46a6acc4d))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.8...v1.2.9) (2022-09-01)
 
 
