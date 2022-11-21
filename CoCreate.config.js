@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "60298ef8e979fb17407e25bf",
             "key": "src",
-            "data":{
+            "document": {
                 "name": "index.html",
                 "path": "/docs/pinterest/index.html",
                 "domains": [
