@@ -1,3 +1,10 @@
+## [1.2.24](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.23...v1.2.24) (2022-11-22)
+
+
+### Bug Fixes
+
+* workflow docs ([8bd45b9](https://github.com/CoCreate-app/CoCreate-pinterest/commit/8bd45b9330bd9e915c6d5a2c3861599e87d56a5f))
+
 ## [1.2.23](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.22...v1.2.23) (2022-11-22)
 
 

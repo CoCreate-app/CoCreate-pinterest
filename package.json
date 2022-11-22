@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/pinterest",
-  "version": "1.2.23",
+  "version": "1.2.24",
   "description": "A simple pinterest component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.",
   "keywords": [
     "pinterest",
@@ -20,7 +20,9 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
@@ -57,5 +59,8 @@
     "webpack-cli": "^4.5.0",
     "webpack-log": "^3.0.1"
   },
-  "dependencies": { "@cocreate/api": "^1.5.6", "@cocreate/docs": "^1.4.1" }
+  "dependencies": {
+    "@cocreate/api": "^1.5.6",
+    "@cocreate/docs": "^1.4.1"
+  }
 }
