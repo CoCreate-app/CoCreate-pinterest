@@ -1,3 +1,10 @@
+## [1.2.23](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.22...v1.2.23) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([dc21eb2](https://github.com/CoCreate-app/CoCreate-pinterest/commit/dc21eb2b401010a994adc0871206deaf7925d29b))
+
 ## [1.2.22](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.21...v1.2.22) (2022-11-21)
 
 
