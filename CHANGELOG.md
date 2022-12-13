@@ -1,3 +1,10 @@
+## [1.2.40](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.39...v1.2.40) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([9898c63](https://github.com/CoCreate-app/CoCreate-pinterest/commit/9898c6358d3b1ddff4f1e5d76ac50f0d2cf99d3f))
+
 ## [1.2.39](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.38...v1.2.39) (2022-12-13)
 
 
