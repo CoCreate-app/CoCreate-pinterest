@@ -1,3 +1,10 @@
+## [1.2.41](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.40...v1.2.41) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([a3c5a7a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/a3c5a7a3510f96e2f98aa0abb8f2f0deeaf5474a))
+
 ## [1.2.40](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.39...v1.2.40) (2022-12-13)
 
 
