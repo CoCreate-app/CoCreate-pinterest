@@ -1,3 +1,10 @@
+## [1.2.43](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.42...v1.2.43) (2022-12-21)
+
+
+### Bug Fixes
+
+* bump dependencies ([180aff5](https://github.com/CoCreate-app/CoCreate-pinterest/commit/180aff5e8f6dbb23cecad57794f443126aa828ee))
+
 ## [1.2.42](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.41...v1.2.42) (2022-12-20)
 
 
