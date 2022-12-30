@@ -1,3 +1,10 @@
+## [1.2.50](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.49...v1.2.50) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([376f3cc](https://github.com/CoCreate-app/CoCreate-pinterest/commit/376f3cce7f7cb37db327f1ebf03fd9ce870f3c77))
+
 ## [1.2.49](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.48...v1.2.49) (2022-12-29)
 
 
