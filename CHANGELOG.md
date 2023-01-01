@@ -1,3 +1,11 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.50...v1.2.51) (2023-01-01)
+
+
+### Bug Fixes
+
+* bump dependencies ([291880d](https://github.com/CoCreate-app/CoCreate-pinterest/commit/291880dade29a70124151e608081391e2d82f95a))
+* docs sanbox overflow ([77a4ab4](https://github.com/CoCreate-app/CoCreate-pinterest/commit/77a4ab42a0d5bb4faceb61365ff3e362cac77ef9))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.49...v1.2.50) (2022-12-30)
 
 
