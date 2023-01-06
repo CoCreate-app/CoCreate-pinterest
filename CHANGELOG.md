@@ -1,3 +1,11 @@
+## [1.2.53](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.52...v1.2.53) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([b0efca0](https://github.com/CoCreate-app/CoCreate-pinterest/commit/b0efca09203bc76fac1eb169b60c29844ed26a94))
+* edit in github btn styles ([f3b254a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f3b254a67f6fc8d3a56d95b4f968bb6b1293e1a1))
+
 ## [1.2.52](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.51...v1.2.52) (2023-01-05)
 
 
