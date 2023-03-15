@@ -1,3 +1,10 @@
+## [1.2.63](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.62...v1.2.63) (2023-03-15)
+
+
+### Bug Fixes
+
+* actions object renamed to endPoints ([4f03d9a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/4f03d9ae3bacdfdcdd8d247b522298fff2034350))
+
 ## [1.2.62](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.61...v1.2.62) (2023-02-01)
 
 
