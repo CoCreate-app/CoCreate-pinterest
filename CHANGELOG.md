@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.63...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([2bb0ba3](https://github.com/CoCreate-app/CoCreate-pinterest/commit/2bb0ba3533b15402d5d922ca8795c14238f2af3a))
+
 ## [1.2.63](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.2.62...v1.2.63) (2023-03-15)
 
 
