@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([a1363f1](https://github.com/CoCreate-app/CoCreate-pinterest/commit/a1363f11344df27ab827fdf0926993cd9cda0c26))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
