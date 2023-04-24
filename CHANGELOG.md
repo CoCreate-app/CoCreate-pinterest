@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.3.6...v1.4.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([22b65a9](https://github.com/CoCreate-app/CoCreate-pinterest/commit/22b65a980b37d2358b98d8aa1b9af88628265978))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.3.5...v1.3.6) (2023-04-11)
 
 
