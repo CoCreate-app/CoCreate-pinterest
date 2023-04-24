@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.3...v1.4.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([e80aa9c](https://github.com/CoCreate-app/CoCreate-pinterest/commit/e80aa9cc542c4ae15b82cd0526c3cedf6fcced05))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.2...v1.4.3) (2023-04-24)
 
 
