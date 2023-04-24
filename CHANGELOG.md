@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([fefc15b](https://github.com/CoCreate-app/CoCreate-pinterest/commit/fefc15b3984250848337936349ad5e53c6aec3f7))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
