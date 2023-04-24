@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* workflow node version updated  16 ([999fb1a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/999fb1ac2846820d25ff13089e4fd49dfca34d8c))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
