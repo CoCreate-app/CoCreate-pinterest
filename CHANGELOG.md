@@ -1,3 +1,12 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.4...v1.4.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([3304d9a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/3304d9a2fdf50067b3ce4ea858127517c818e2f6))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([220675a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/220675afae3acc4b7cacab9daed671576b28fbe9))
+* removed toogle fullscreen icons. now using css content ([44a2be8](https://github.com/CoCreate-app/CoCreate-pinterest/commit/44a2be87981a0a25e082d2105552adc663d2c496))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.3...v1.4.4) (2023-04-24)
 
 
