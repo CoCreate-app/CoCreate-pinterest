@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.6...v1.4.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([c135dae](https://github.com/CoCreate-app/CoCreate-pinterest/commit/c135daef2cf86e7e906d57e8698491cdfaf0d3f3))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
