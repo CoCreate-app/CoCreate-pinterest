@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([f60956b](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f60956b4a89b7d7cdb5ab1473c0f898bc67ab4f1))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.4...v1.4.5) (2023-04-30)
 
 
