@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.8...v1.4.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([e13577e](https://github.com/CoCreate-app/CoCreate-pinterest/commit/e13577e46e403bb9fa51f869c96bd2faae3e474f))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.7...v1.4.8) (2023-05-06)
 
 
