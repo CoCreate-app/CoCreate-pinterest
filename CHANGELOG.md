@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.9...v1.4.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([758bb67](https://github.com/CoCreate-app/CoCreate-pinterest/commit/758bb67cb737569da9faa59f643b2f4d84adbe10))
+
 ## [1.4.9](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.8...v1.4.9) (2023-05-10)
 
 
