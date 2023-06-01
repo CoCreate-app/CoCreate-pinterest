@@ -1,49 +1,41 @@
-
 <!DOCTYPE html>
 <html>
+    <head>
+        <title>Pinterest</title>
 
-<head>
-    <title>Pinterest</title>
+        <style type="text/css">
+            .template {
+                display: none;
+            }
+            .list {
+                display: inline-grid;
+                grid-gap: 30px;
+                margin: 30px 50px;
+            }
+            .list > li {
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        </style>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
 
-    <style type="text/css">
-        .template {
-            display: none
+    <body>
+        <h1>List of API - Pinterest</h1>
+
+        <ul class="list">
+            <li onclick="navigate('boardList')">Go to Pinterest Board List</li>
+            <li onclick="navigate('userShow')">Go to Pinterest User Show</li>
+        </ul>
+    </body>
+
+    <script>
+        function navigate(name) {
+            window.location.href = `../demo/${name}.html`;
         }
-        .list {
-            display: inline-grid;
-            grid-gap: 30px;
-            margin: 30px 50px;
-        }
-        .list > li {
-            text-decoration: underline;
-            cursor: pointer;
-        }
-    </style>
-    <link rel="manifest" href="/manifest.webmanifest">
-</head>
+    </script>
 
-<body>
-
-    <h1>List of API - Pinterest</h1>
-    
-    <ul class="list" >
-        <li onclick="navigate('boardList')">Go to Pinterest Board List</li>
-        <li onclick="navigate('userShow')">Go to Pinterest User Show</li>
-    </div>
-
-</body>
-
-
-<script>
-    function navigate(name){
-        window.location.href = `../demo/${name}.html`;
-
-    }
-</script>
-
-<!--CoCreateJS-->
-<!--<script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>-->
-<script src="../dist/CoCreate-pinterest.js"></script>
-
-
+    <!--CoCreateJS-->
+    <!--<script src="https://cdn.cocreate.app/latest/CoCreate.min.js"  ></script>-->
+    <script src="../dist/CoCreate-pinterest.js"></script>
 </html>
