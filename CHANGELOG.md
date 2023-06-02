@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.11...v1.4.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([d267286](https://github.com/CoCreate-app/CoCreate-pinterest/commit/d267286b30bd433cdf05f1c475c9e9f488fbc5e2))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.10...v1.4.11) (2023-05-21)
 
 
