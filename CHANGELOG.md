@@ -1,3 +1,11 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([3998a7a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/3998a7a63d8ed10bc9fe5f1f3000c05bb7b4f7f5))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([dec21b8](https://github.com/CoCreate-app/CoCreate-pinterest/commit/dec21b85bbaf3cfb9d3be550addf331d9577aafb))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
