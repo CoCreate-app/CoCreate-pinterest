@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([e8802ce](https://github.com/CoCreate-app/CoCreate-pinterest/commit/e8802ce30c9136991ac99ab1ab471eb81fc39b24))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.11...v1.4.12) (2023-06-02)
 
 
