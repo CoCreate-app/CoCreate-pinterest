@@ -1,3 +1,10 @@
+## [1.4.21](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.20...v1.4.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([efd8d0e](https://github.com/CoCreate-app/CoCreate-pinterest/commit/efd8d0e8848776a78ea54046a074ba7ecaaaf78f))
+
 ## [1.4.20](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.19...v1.4.20) (2023-06-11)
 
 
