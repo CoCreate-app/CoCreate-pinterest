@@ -1,3 +1,10 @@
+## [1.4.26](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.25...v1.4.26) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([05040fc](https://github.com/CoCreate-app/CoCreate-pinterest/commit/05040fccdd8cae3a2d0dba34341915bfab36cd76))
+
 ## [1.4.25](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.24...v1.4.25) (2023-06-11)
 
 
