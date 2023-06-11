@@ -1,3 +1,10 @@
+## [1.4.28](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.27...v1.4.28) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([6465fb3](https://github.com/CoCreate-app/CoCreate-pinterest/commit/6465fb3096150d7398461f12cbe125f6ec52ba6c))
+
 ## [1.4.27](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.26...v1.4.27) (2023-06-11)
 
 
