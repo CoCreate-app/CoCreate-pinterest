@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.17...v1.4.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([10b0233](https://github.com/CoCreate-app/CoCreate-pinterest/commit/10b0233f5994a7f08d612d6a1258c4dc80bf4146))
+
 ## [1.4.17](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.16...v1.4.17) (2023-06-10)
 
 
