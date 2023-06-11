@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([6980306](https://github.com/CoCreate-app/CoCreate-pinterest/commit/69803067fe06ac6d81882e909bdd9c7fa1e9dd82))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
