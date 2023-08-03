@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "60298ef8e979fb17407e25bf",
                 "name": "index.html",
                 "path": "/docs/pinterest/index.html",
