@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.29...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([77da416](https://github.com/CoCreate-app/CoCreate-pinterest/commit/77da4165906eec81263ae01df8ce4382e1968b24))
+* replace -target -selector ([829233c](https://github.com/CoCreate-app/CoCreate-pinterest/commit/829233cf670f180ad7bbdd13da2e689086fcc341))
+* webpack.config and package.json make use of mode=production instead of process.env ([3472c5f](https://github.com/CoCreate-app/CoCreate-pinterest/commit/3472c5fe4975b4073bb3b7a0700759bcf5a7975b))
+
+
+### Features
+
+* name attribute and variable renamed to key ([c6e0238](https://github.com/CoCreate-app/CoCreate-pinterest/commit/c6e02381f00fdf59a9154e931effc7937fb53919))
+
 ## [1.4.29](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.4.28...v1.4.29) (2023-06-14)
 
 
