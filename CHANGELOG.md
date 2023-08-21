@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([f83b2d8](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f83b2d8561e851cf0378b2ce4c44cbcb80c3de74))
+* replace cdn with /dist ([33f79b2](https://github.com/CoCreate-app/CoCreate-pinterest/commit/33f79b27672c05bb69a3bb9028b13d75ceff950b))
+* update file uploader ([886ee9b](https://github.com/CoCreate-app/CoCreate-pinterest/commit/886ee9b38e9994de0084a3dafb3ae3be5345380c))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
