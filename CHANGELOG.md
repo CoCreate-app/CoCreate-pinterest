@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([a1ea7df](https://github.com/CoCreate-app/CoCreate-pinterest/commit/a1ea7df8987a2b5cd7cd3fb8b31798bac9915d9d))
+* Update CoCreate depndencies to latest versions ([009ed3e](https://github.com/CoCreate-app/CoCreate-pinterest/commit/009ed3e60f3c1a7707822165dcb724939ba82b9d))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
