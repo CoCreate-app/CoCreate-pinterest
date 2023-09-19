@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.7.2...v1.8.0) (2023-09-19)
+
+
+### Features
+
+* Update CoCreate dependencies to their latest versions ([39dadfc](https://github.com/CoCreate-app/CoCreate-pinterest/commit/39dadfc52c3d14a7260f90707d6129678384173b))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.7.1...v1.7.2) (2023-09-18)
 
 
