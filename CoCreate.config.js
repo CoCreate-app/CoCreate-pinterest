@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/pinterest/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "pinterest",
                 "content-type": "{{content-type}}",
