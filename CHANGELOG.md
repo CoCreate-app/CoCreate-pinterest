@@ -1,3 +1,11 @@
+## [1.8.6](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.8.5...v1.8.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([c3bc8ea](https://github.com/CoCreate-app/CoCreate-pinterest/commit/c3bc8ea656c66922e34160af3725ab27a51ce7d3))
+* update host ([b774a2e](https://github.com/CoCreate-app/CoCreate-pinterest/commit/b774a2e2266527f10da95436bf9f28ab3ca4550f))
+
 ## [1.8.5](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.8.4...v1.8.5) (2023-11-03)
 
 
