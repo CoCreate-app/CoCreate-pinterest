@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([f080d3a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/f080d3a4177a9cc219dff1b9e22d922dec301219))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([416f1e7](https://github.com/CoCreate-app/CoCreate-pinterest/commit/416f1e75a3c0f089788f649b5b2ee3a3abe21b6f))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.8.7...v1.9.0) (2023-11-19)
 
 
