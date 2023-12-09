@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.0...v1.11.1) (2023-12-09)
+
+
+### Bug Fixes
+
+* getOrg() renamed to getOrganization() ([2c8ff47](https://github.com/CoCreate-app/CoCreate-pinterest/commit/2c8ff478eca19f111e55ccfc5225ee7415754ae1))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
