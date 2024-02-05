@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.1...v1.11.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([bb99328](https://github.com/CoCreate-app/CoCreate-pinterest/commit/bb993284141701a0e4524714045d9b2f3722f453))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.0...v1.11.1) (2023-12-09)
 
 
