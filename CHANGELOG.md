@@ -1,3 +1,11 @@
+## [1.11.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.3...v1.11.4) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([61ffbdb](https://github.com/CoCreate-app/CoCreate-pinterest/commit/61ffbdb29125de1b9c20d6e26e23c0391211c974))
+* svg icon class ([dfbaec6](https://github.com/CoCreate-app/CoCreate-pinterest/commit/dfbaec6d13f6ab2ba50152568d2be28a3c05268e))
+
 ## [1.11.3](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.2...v1.11.3) (2024-04-29)
 
 
