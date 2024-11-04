@@ -1,3 +1,16 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.4...v1.12.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([3d31e81](https://github.com/CoCreate-app/CoCreate-pinterest/commit/3d31e81819a700c780fff24dc2e0dc674ba760ee))
+
+
+### Features
+
+* add prettier.config.js and format files ([2521c59](https://github.com/CoCreate-app/CoCreate-pinterest/commit/2521c59f6702ad3cc7a529f6d37aaf7f651f59c7))
+* add prettier.config.js and format files ([984afd3](https://github.com/CoCreate-app/CoCreate-pinterest/commit/984afd3e0f7984f4b667deaa944bc6bbafaf2d65))
+
 ## [1.11.4](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.3...v1.11.4) (2024-06-12)
 
 
