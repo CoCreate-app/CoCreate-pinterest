@@ -1,3 +1,13 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.12.0...v1.12.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([a7fee62](https://github.com/CoCreate-app/CoCreate-pinterest/commit/a7fee6265acaaafe3ea334d109518ecb5219185b))
+* update query attributes ([6df180a](https://github.com/CoCreate-app/CoCreate-pinterest/commit/6df180a81e812e122c7a2d85f2767d29557c5a41))
+* updated cocreate modules versions ([dbfedd7](https://github.com/CoCreate-app/CoCreate-pinterest/commit/dbfedd77fc94d3f7c42abced902dc04391c7857e))
+* webpack.config and devdependencies ([5c3e5cb](https://github.com/CoCreate-app/CoCreate-pinterest/commit/5c3e5cb744fe385386430ff25ac1224f65127d60))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-pinterest/compare/v1.11.4...v1.12.0) (2024-11-04)
 
 
